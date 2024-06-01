@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Language-Python-blue?logo=python) ![Static Badge](https://img.shields.io/badge/Visualization-LookerStudio-brightgreen?logo=Looker) ![Static Badge](https://img.shields.io/badge/Others-Survey-brightgreen)
+![Static Badge](https://img.shields.io/badge/Language-Python-blue?logo=python) ![Static Badge](https://img.shields.io/badge/Language-Jupyter-blue?logo=Jupyter) 
 
 
 # ICR - Identifying Age-Related Conditions

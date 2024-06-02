@@ -3,9 +3,9 @@
 
 # ICR - Identifying Age-Related Conditions
 
-The goal of the competition was according to its own description: predict if a person has any of 3 medical conditions. Further details of the competition are available in Kaggle: [ICR](https://www.kaggle.com/competitions/icr-identify-age-related-conditions).
+The goal of the competition was "to predict if a person has any of 3 medical conditions". Further details of the competition are available in its Kaggle site: [ICR](https://www.kaggle.com/competitions/icr-identify-age-related-conditions).
 
-My best solution was achieved wiht a LightGBM Model with a simple cross-validation method to optimize the classification score.
+My best solution was achieved with a LightGBM Model with a cross-validation method to optimize the hyperparameters of the model and finally chosen based on the classification score.
 
 In the [Jupyter Notebook](https://github.com/soyandresromero/age-related-conditions/blob/51aa50311a0fff92eb46be08a1ee480c9eb606b2/ICR_Final_V2.ipynb) is described in detail all the process followed to achieve the results granting me my first Bronze Medal in Kaggle. On it, I was able to perform:
 - Exploratory Data Analysis: with Imputations of missing values.
